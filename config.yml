@@ -2,3 +2,23 @@ baseURL: 'https://celestialturnip.netlify.app'
 languageCode: 'en-us'
 title: 'celestialturnip'
 theme: "PaperMod"
+
+params:
+  defaultTheme: auto  # Switch between dark or light according to browser theme
+  ShowShareButtons: true  # Show social media buttons on bottom of each post.
+  ShowReadingTime: true  # Displays Reading Time (the estimated time, in minutes, it takes to read the content.)
+  ShowToc: true  # To show ToC add following to page-variables
+  ShowBreadCrumbs: true
+  homeInfoParams:
+    Title: hi! 👋
+    Content: i make games each month and write about how it went
+
+  socialIcons:
+    - name: "itchio"
+      url: "https://celestialturnip.itch.io/"
+    - name: "twitter"
+      url: "https://twitter.com/celestialturnip"
+    - name: "github"
+      url: "https://github.com/celestialturnip"
+    - name: "email"
+      url: "mailto:celestialturnip@protonmail.com"
