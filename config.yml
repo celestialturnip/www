@@ -11,7 +11,9 @@ params:
   ShowBreadCrumbs: true
   homeInfoParams:
     Title: hi! 👋
-    Content: i make games each month and write about how it went
+    Content: i make games each month and write about how it went 🥳
+
+      - click [here](https://forms.gle/ZAk24LAGVC8Ugpp19) to subscribe for monthly updates 👀
 
   socialIcons:
     - name: "itchio"

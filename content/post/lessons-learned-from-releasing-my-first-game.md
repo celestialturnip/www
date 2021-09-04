@@ -2,11 +2,11 @@
 title: "Lessons learned from releasing my first game"
 date: 2021-09-03T15:44:57+09:00
 draft: false
+cover:
+  image: "https://img.itch.zone/aW1nLzY4OTcxMTIuZ2lm/315x250%23c/FsChh%2B.gif"
 ---
 
 I made [FACEPONG](https://celestialturnip.itch.io/facepong) in 30 days as a way to start making and releasing games more consistently, inspired by [a327ex](https://www.a327ex.com/) and [Adam Pype](https://twitter.com/adampi). It's the first game I've ever finished making, after a dozen half-finished projects, so I wanted to share my thoughts and reflect on its development.
-
-![FACEPONG gameplay](https://img.itch.zone/aW1nLzY4OTcxMTIuZ2lm/315x250%23c/FsChh%2B.gif#center")
 
 ## Some context
 Until last summer, I had never done any game development.
